@@ -8,4 +8,5 @@ The __init__.py file is our application factory.
 The models.py file contains our database models.
 The views.py file has the code for rendering the views/web pages of the application.
 The auth.py file has the code logic for user authentication and verification.
+The requirements.txt file outside the website folder has the list of all dependencies(pip requirements) fo this application.
 And last but not least templates folder contains the HTML templates that actually display stuff on the browser.
